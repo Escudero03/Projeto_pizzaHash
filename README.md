@@ -15,7 +15,6 @@ PizzaHash é uma landing page para uma pizzaria fictícia, criada como um projet
 
 - HTML5
 - CSS3 (arquivo style.css linkado no HTML)
-- JavaScript (potencialmente usado, baseado na inclusão de ícones interativos)
 - Biblioteca de ícones: Ionicons
 
 ## Como Visualizar o Projeto
